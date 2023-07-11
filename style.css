@@ -332,3 +332,134 @@ font-weight: 400;
 line-height: 30px;
 width: 90%;
 }
+
+/* instagram section ends */
+/* .four{
+    width: 60%;
+} */
+.four-contain{
+    display: flex;
+    gap: 15px;
+    /* border: 1px solid green; */
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    
+}
+.four-pink {
+    width: 26%;
+}
+.four-pink img{
+    width: 100%;
+}
+
+/* four secion ends */
+/* cover section starts */
+.cover{
+    width: 80%;
+    background-image: url(/images/Rectangle\ 9.png);
+    background-size: cover;
+    height: 400px;
+    margin: 100px auto;
+
+}
+.cover-content{
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.cover-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.cover-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.cover-search{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.src{
+    border-radius: 8px;
+background: #FFF;
+width: 700px;
+height: 64px;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+border: none;
+font-weight: 400;
+line-height: normal;
+text-align: left;
+padding-left: 30px;
+}
+.cover-search>button{
+    border: none;
+    border-radius: 8px;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background-color: #E55473;
+padding: 20px 43px;
+}
+
+/* cover ends */
+/* foter starts */
+.footer{
+    background-color: #111010;
+}
+.footdiv{
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.footdiv>h3{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-align: center;
+}
+.footdiv>p{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+
+.footdiv>copy{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footdiv>h3>span{
+    color: white;
+}
