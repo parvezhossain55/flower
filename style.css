@@ -297,13 +297,38 @@ display: block;
 margin: 25px auto;
 
 }
-.img-deal{
-   
-}
+
 .img-deal>img{
     width: 90%;
     display: block;
     margin: 60px auto 0 auto;
 
 
+}
+/* support section ends */
+
+/* instagram section strats */
+.instagram-content{
+    width: 50%;
+    margin: 50px auto;
+}
+.instagram-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 35px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.instagram-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 90%;
 }
