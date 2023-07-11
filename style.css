@@ -13,7 +13,7 @@
 }
 
 .primary{
-    width: 85%;
+    width: 80%;
     margin: 0 auto;
     display: flex;
     gap: 30px;
@@ -109,7 +109,7 @@ width: 90%;
 
 /* Flower section starts */
 .flowers{
-    width: 83%;
+    width: 80%;
     display: flex;
     margin: 0 auto;
     
@@ -208,3 +208,102 @@ text-decoration-line: underline;
 padding-bottom: 30px;
 }
 /* flower section ends */
+
+/* Support section start */
+
+.support{
+    width: 80%;
+    margin: 80px auto;
+    display: flex;
+    border-radius: 8px;
+    
+    background-color: #2727270D;
+    padding: 50px 0;
+    gap: 100px;
+    justify-content: center;
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+    
+}
+
+.sameday>img,.fresh>img, .free>img{
+    width: 75px;
+    height: 75px;
+    display: block;
+    padding: 24px 0;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+/* support section ends */
+
+.hot{
+    background-color: #E554730D;
+   
+}
+.dealall{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+}
+.deal{
+    /* border: 1px solid white; */
+    width: 70%;
+    
+    padding-top: 120px;
+}
+.deal-title{
+    color: #272727;
+font-family: Lato;
+font-size: 30px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-align: center;
+}
+.deal-title>span{
+    color: #E55473;
+}
+.deal-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+margin-top: 25px;
+
+}
+.btn-deal{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 20px 43px;
+background-color:#E55473;
+border: none;
+border-radius: 8px;
+display: block;
+margin: 25px auto;
+
+}
+.img-deal{
+   
+}
+.img-deal>img{
+    width: 90%;
+    display: block;
+    margin: 60px auto 0 auto;
+
+
+}
